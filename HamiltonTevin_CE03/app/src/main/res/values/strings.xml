@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE03</string>
+    <string name="background_color">Background Color</string>
+    <string name="green">Green</string>
+    <string name="display_text">Display Text</string>
+    <string name="purple">Purple</string>
+    <string name="black">Black</string>
+    <string name="text_color">Text Color</string>
+    <string name="text_style">Text Style(Optional)</string>
+    <string name="bold">Bold</string>
+    <string name="text_appears">Text Appears Here</string>
+    <string name="todo">TODO</string>
+</resources>
